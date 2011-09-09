@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="262B9B3E-E088-47CF-8EC4-FC824D85A601" ModuleId="ServiceStack.ContainerAdapter.Ninject" />
+  <Module PersistentId="33F5EB0B-361E-4F40-BFDB-A94D8A7E700D" ModuleId="ServiceStack.ContainerAdapter.Ninject.Test" />
+</Modules>

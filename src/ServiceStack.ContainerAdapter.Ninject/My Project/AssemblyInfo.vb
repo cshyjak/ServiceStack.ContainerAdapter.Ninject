@@ -9,10 +9,10 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("ServiceStack.ContainerAdapter.Ninject")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Microsoft")> 
+<Assembly: AssemblyDescription("Ninject ContainerAdapter for Service Stact")> 
+<Assembly: AssemblyCompany("Code Freakout")> 
 <Assembly: AssemblyProduct("ServiceStack.ContainerAdapter.Ninject")> 
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2011")> 
+<Assembly: AssemblyCopyright("Copyright © Code Freakout 2011")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>

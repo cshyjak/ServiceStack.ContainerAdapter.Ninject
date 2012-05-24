@@ -4,7 +4,7 @@ Imports ServiceStack.Common.EnumerableExtensions
 
 <TestFixture()> _
 Public Class NinjectContainerAdapterTest
-    Private _listeningOn = "http://localhost:85/"
+    Private _listeningOn = "http://localhost:8081/"
     Private _ninjectHost As NinjectAppHost
 
     <TestFixtureSetUp()> _

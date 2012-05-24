@@ -5,7 +5,7 @@ Imports ServiceStack.Configuration
 Public Class NinjectContainerAdapter
     Implements IContainerAdapter
 
-    Private _kernel As ikernel
+    Private ReadOnly _kernel As IKernel
 
     Sub New(kernel As IKernel)
         _kernel = kernel
